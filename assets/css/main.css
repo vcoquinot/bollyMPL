@@ -1,0 +1,41 @@
+body {
+  padding-top: 10px;
+}
+[class*="col-"] {
+  background-color: white; 
+  border-color: pink;
+  border-radius: 6px;
+  line-height: 40px;
+  text-align: center;
+}
+
+
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+img{
+  width: 100%;
+  }  
+    
+body { 
+      background-image: url(assets/pics/background.jpg) ;
+      background-position: center center;
+      background-repeat:  no-repeat;
+      background-attachment: fixed;
+      background-size:  cover;
+      background-color: #999;
+      font-weight: 300;
+      padding-top: 70px;   
+}
+
+*{
+  color: #4e0f5e;
+  font-family: 'kalam','Georgia','sans-serif';
+ }
+
+
+
